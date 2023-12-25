@@ -6,6 +6,7 @@ BatthyTool is a command-line utility that provides a collection of tools for var
 
 ## Features
 
+- **Boot Animation:** Enjoy a dynamic boot animation while BatthyTool loads.
 - **List Files:** Easily view files in the current directory.
 - **System Information:** Retrieve detailed system information with a single command.
 - **Text File Editor:** Open a basic text file editor to quickly view or edit text files.
@@ -16,6 +17,21 @@ BatthyTool is a command-line utility that provides a collection of tools for var
 - **Disk Cleanup:** Launch the Disk Cleanup utility to free up disk space.
 - **Service Manager:** Access the Windows Services Manager for service management.
 - **User Account Manager:** Open the User Account Manager for user administration.
+- **System Cleanup:** Run cleanup tasks to optimize system performance.
+- **Disk Usage:** Display disk usage information for better storage management.
+- **Open Command Prompt:** Quickly open a new command prompt for additional commands.
+- **System Logs:** View system logs for troubleshooting and monitoring.
+
+## New Tools
+
+- **Tool 11 - System Cleanup:** Run cleanup tasks to optimize system performance. Sample commands include deleting temporary files and cleaning up system logs.
+
+- **Tool 12 - Disk Usage:** Display disk usage information for better storage management. Sample command includes listing files on the C: drive.
+
+- **Tool 13 - Open Command Prompt:** Quickly open a new command prompt for additional commands.
+
+- **Tool 14 - System Logs:** View system logs for troubleshooting and monitoring. Sample command includes querying the System log.
+
 
 ## Getting Started
 
