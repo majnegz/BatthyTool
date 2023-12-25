@@ -19,7 +19,7 @@ BatthyTool is a command-line utility that provides a collection of tools for var
 
 ## Getting Started
 
-1. Download the latest release from the [releases page](link_to_releases).
+1. Download the latest release from the [Releses page](https://github.com/Majnek/BatthyTool/releases).
 2. Run `BatthyTool.exe` to access the menu.
 3. Simple!
 
