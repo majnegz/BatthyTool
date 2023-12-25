@@ -1,7 +1,4 @@
-# BatthyTool v1.0
-
-![BatthyTool Logo][bat-icon-silhouette-symbol-isolated-on-white-vector-29528168](https://github.com/Majnek/BatthyTool/assets/152002154/9f761969-d3a9-4a1a-8004-e8a09c245dcb)
-
+# BatthyTool
 
 ## Overview
 
@@ -41,9 +38,5 @@ BatthyTool is a command-line utility that provides a collection of tools for var
 If you'd like to contribute to BatthyTool, feel free to submit bug reports, feature requests, or pull requests.
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE]() file for details.
-
----
-
-**Note:** Replace placeholders like `link_to_your_logo.png`, `link_to_releases`, `Your Name`, etc., with the actual URLs and information relevant to your project.
+This project is licensed under the MIT License - see the [LICENSE](https://raw.githubusercontent.com/Majnek/BatthyTool/main/License) file for details.
 
