@@ -46,7 +46,7 @@ BatthyTool is a command-line utility that provides a collection of tools for var
 
 ## Credits
 
-- 🦸‍♂️ BatthyTool was created by Majnek.
+- 🦸‍♂️ BatthyTool was created by Traxxtor INC And Sponsored by Majnek https://youtube.com/@totalny_majnek
 
 ## Contributing
 
