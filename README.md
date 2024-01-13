@@ -55,3 +55,6 @@ If you'd like to contribute to BatthyTool, feel free to submit bug reports, feat
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](https://raw.githubusercontent.com/Majnek/BatthyTool/main/License) file for details.
+
+---------------------------------------------------------------------------------
+<a href="https://R74n.com"><img src="https://R74n.com/icons/88x31.gif" alt="R74n"></a>
